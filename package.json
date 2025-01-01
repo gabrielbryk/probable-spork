@@ -14,6 +14,7 @@
     "@nx/eslint-plugin": "20.3.0",
     "@nx/jest": "20.3.0",
     "@nx/js": "20.3.0",
+    "@nx/powerpack-shared-fs-cache": "^1.1.1",
     "@nx/react": "20.3.0",
     "@nx/vite": "20.3.0",
     "@nx/web": "20.3.0",
